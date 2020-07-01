@@ -46,12 +46,12 @@ overflow:hidden;
 .coffee-desc{
   width:90%;
   text-align:center;
-  padding:80px 10px 10px 30px;
+  padding:50px 10px 10px 30px;
   font-size:20px;
 }
 
 .coffee-desc h2{
-  padding-bottom:20px;
+  padding-bottom:10px;
 }
 .menu{
   background-color:#dac292;
@@ -77,11 +77,11 @@ overflow:hidden;
 .cozy-desc{
   width:90%;
   text-align:center;
-  padding:80px 10px 10px 30px;
+  padding:50px 10px 10px 30px;
   font-size:20px;
 }
 .cozy-desc h2{
-  padding-bottom:20px;
+  padding-bottom:10px;
 }
 .li3:hover{
   font-size:22px;
