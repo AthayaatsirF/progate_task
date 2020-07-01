@@ -1,0 +1,87 @@
+/* Untuk Tablets */
+@media (max-width: 1000px) {
+  .coffee-desc{
+  width:90%;
+  text-align:center;
+  padding:50px 20px 30px 20px;
+  font-size:15px;
+}
+.cozy-desc{
+  width:90%;
+  text-align:center;
+  padding:50px 30px 30px 10px;
+  font-size:15px;
+}
+li {
+  color: white;
+  height: 300px;
+  font-style:italic;
+text-align:center;
+border:0;
+overflow:hidden;
+}
+.coffee-img{
+  margin:-130px -130px -150px -10px;
+}
+.cozy-img{
+  margin:-100px 0px 0 -100px;
+}
+.li2:hover{
+  font-size:12px;
+}
+.li3:hover{
+  font-size:12px;
+}
+}
+
+
+/* Untuk Smartphones */
+@media (max-width:670px) {
+  .flex-list li {
+  flex: auto;
+  /* Tetapkan width ke 50% */
+  width:100%
+}
+li{
+  height:500px;
+  font-size:5px;
+}
+.heading h2{
+  font-size:15px;
+  text-align:center;
+}
+
+
+ .coffee-desc{
+  width:90%;
+  text-align:center;
+  padding:30px 20px 30px 20px;
+  font-size:15px;
+}
+.cozy-desc{
+  width:90%;
+  text-align:center;
+  padding:30px 30px 30px 10px;
+  font-size:15px;
+}
+li {
+  color: white;
+  height: 250px;
+  font-style:italic;
+text-align:center;
+border:0;
+overflow:hidden;
+}
+.coffee-img{
+  margin:-100px -10px -10px -150px;
+}
+.cozy-img{
+  margin:-150px -2000px 0px 0;
+}
+.li2:hover{
+  font-size:10px;
+}
+.li3:hover{
+  font-size:10px;
+}
+}
