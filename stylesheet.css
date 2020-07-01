@@ -1,0 +1,109 @@
+.provide-wrapper{
+  width:100%;
+}
+.heading {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left:30px;
+  color:#3b3a30;
+  background-color: #96897f;
+  font-style:bold;
+  text-align:center
+}
+
+.heading:hover{
+  background-color:#625750;
+  color:white;
+}
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px 0px;
+  text-align: center;
+  width:100%;
+}
+li {
+  color: white;
+  height: 400px;
+  font-style:italic;
+text-align:center;
+border:0;
+overflow:hidden;
+}
+.li1 {
+  background-color: #674d3c;
+}
+.coffee-img{
+  margin:-50px -30px 0px -75px;
+}
+
+.li2 {
+  background-color: #674d3c;
+}
+.li2:hover{
+  font-size:22px;
+}
+.coffee-desc{
+  width:90%;
+  text-align:center;
+  padding:130px 10px 30px 30px;
+  font-size:20px;
+}
+
+.coffee-desc h2{
+  padding-bottom:20px;
+}
+.menu{
+  background-color:#dac292;
+}
+.gallery{
+  background-color:#96897f;
+}
+.btn {
+  padding: 12px 24px;
+  color:black;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-decoration:none;
+}
+.btn:hover {
+  opacity: 1;
+}
+
+.li3 {
+  background-color:#625750;
+}
+.cozy-desc{
+  width:90%;
+  text-align:center;
+  padding:130px 10px 30px 30px;
+  font-size:20px;
+}
+.cozy-desc h2{
+  padding-bottom:20px;
+}
+.li3:hover{
+  font-size:22px;
+}
+
+.li4 {
+  background-color: #625750;
+  width:50%;
+}
+.cozy-img{
+  width:40px;
+}
+
+.flex-list {
+  display: flex;
+  /* Tetapkan flex-wrap */
+  flex-wrap: wrap;
+}
+
+.flex-list li {
+  flex: auto;
+  /* Tetapkan width ke 50% */
+  width:50%
+}
+
